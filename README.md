@@ -1,0 +1,1 @@
+# Evaluation-of-Gradient-Based-Magnitude-Pruning-Technique
